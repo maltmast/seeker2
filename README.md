@@ -6,3 +6,9 @@ git clone https://github.com/maltmast/seeker2
 cd seeker2
 sudo bash install.sh
 ```
+
+## Run:
+```bash
+cd seeker2
+python3 seeker.py
+```
